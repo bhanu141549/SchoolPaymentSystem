@@ -1,4 +1,6 @@
-SchoolPaymentSystem created using the VisualStudioCode
+SchoolPaymentSystem created using the VisualStudioCode IDE
+
+To Execute the Program : Run the Main.java file in IDE
 
 Sample Output of the Project
 
