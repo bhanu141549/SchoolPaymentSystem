@@ -1,18 +1,6 @@
-## Getting Started
+SchoolPaymentSystem created using the VisualStudioCode
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Sample Output of the Project
 
-## Folder Structure
+<img width="751" alt="SamleOutput" src="https://user-images.githubusercontent.com/53010354/204540376-6d502201-0a08-4373-ac4d-d8637c71591a.png">
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
